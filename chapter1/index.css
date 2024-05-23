@@ -1,0 +1,15 @@
+p {
+    font-weight: bold;
+    color: crimson;
+    font-size: large;
+    margin-left: 50px;
+}
+
+.blueXlargeFont {
+    color: blue;
+    font-size: x-large;
+}
+
+#name {
+    color: black;
+}
